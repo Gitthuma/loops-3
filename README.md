@@ -11,3 +11,5 @@ You need to use a loop to go through the numbers 2 to 500 backwards (1 is not co
 You should use a type of loop that you've not used in the previous two tasks.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Test_your_skills:_Loops
+
+Live web: https://gitthuma.github.io/loops-3/
