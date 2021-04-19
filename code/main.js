@@ -18,10 +18,15 @@ function isPrime(num) {
 
 /*Create a do...while loop*/
 
+/*Create a condition to check if isPrime() is true and print it*/
+
 do {
+   if (isPrime(i)) {
+       para.textContent += i + ' ';
+   }
 
     i--
-} while ( i >= 2)
+} while ( i >= 2);
 
 
 // Don't edit the code below here!
