@@ -14,6 +14,15 @@ function isPrime(num) {
 
 // Add your code here
 
+/*You need to use a loop to go through the numbers 2 to 500 backwards (1 is not counted as a prime number), and run the provided isPrime() function on them. For each number that isn't a prime number, continue on to the next loop iteration. For each one that is a prime number, add it to the paragraph's textContent along with some kind of separator.*/
+
+/*Create a do...while loop*/
+
+do {
+
+    i--
+} while ( i >= 2)
+
 
 // Don't edit the code below here!
 let section = document.querySelector('section');
